@@ -1,1 +1,1 @@
-name="test_lib"
+name="testlib"
